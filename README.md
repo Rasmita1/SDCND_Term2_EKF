@@ -42,4 +42,10 @@ Y: 0.0862
 VX:0.4493
 VY:0.4069
 The output is available in file output\output1.txt
+The output plot is shown in Output_obj_pose-laser-radar-synthetic-input.JPG present in 'output\Output_obj_pose-laser-radar-synthetic-input.JPG'
+
+I have not committed the complete Eigen folder. The codes are available in classroom example Git project repository.
+
+
+
 
