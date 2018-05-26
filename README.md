@@ -1,5 +1,5 @@
 # SDCND_Term2_EKF
-#Extended Kalman Filters Project
+## Extended Kalman Filter Project
 A Kalman filter is used to estimate the state of a moving object of interest with noisy lidar and radar measurements. 
 - Here the RMSE values are lower than the tolerance value mentioned in the project rubric. 
 
@@ -13,7 +13,7 @@ Once the install for uWebSocketIO is complete, the main program can be built and
 4. make
 5. ./ExtendedKF
 
-#Run the Project:
+## Run the Project:
 1. Clone this repo.
 2. Make a build directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make` 
@@ -34,7 +34,7 @@ OUTPUT: values provided by the c++ program to the simulator
 Then run the project from the build directory on the sample data files using:
 ./ExtendedKF ../data/obj_pose-laser-radar-synthetic-input.txt ../output/output1.txt
 
-#Result
+## Result
 The result for the input file 'obj_pose-laser-radar-synthetic-input.txt' is
 RMSE
 X: 0.0961
